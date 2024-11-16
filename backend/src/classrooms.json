@@ -1,0 +1,44 @@
+[
+    {
+        "floor": "1",
+        "classroom": "416",
+        "time": {
+            "one": "8_30",
+            "two": "9_30",
+            "three": "10_30"
+        },
+        "lesson": {
+            "first": "biology",
+            "second": "physics",
+            "third": "pe"
+        }
+    },
+    {
+        "floor": "2",
+        "classroom": "402",
+        "time": {
+            "one": "8_30",
+            "two": "9_30",
+            "three": "10_30"
+        },
+        "lesson": {
+            "first": "geometry",
+            "second": "english_language",
+            "third": "russian_language"
+        }
+    },
+    {
+        "floor": "3",
+        "classroom": "409",
+        "time": {
+            "one": "8_30",
+            "two": "9_30",
+            "three": "10_30"
+        },
+        "lesson": {
+            "first": "chemistry",
+            "second": "pe",
+            "third": "physics"
+        }
+    }
+]
