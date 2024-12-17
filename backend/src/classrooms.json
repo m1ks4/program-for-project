@@ -3,56 +3,56 @@
         "floor": "1",
         "classroom": "431",
         "class": "3A",
-        "time": "8_30",
+        "time": "8:30",
         "lesson": "Биология"
     },
     {
         "floor": "1",
         "classroom": "431",
         "class": "4Б",
-        "time": "9_30",
+        "time": "9:30",
         "lesson": "Физика"
     },
     {
         "floor": "1",
         "classroom": "431",
-        "class": "5В",
-        "time": "10_30",
+        "class": "5B",
+        "time": "10:30",
         "lesson": "Физическая культура"
     },
     {
         "floor": "1",
         "classroom": "431",
         "class": "6Г",
-        "time": "11_30",
+        "time": "11:30",
         "lesson": "Английский язык"
     },
     {
         "floor": "1",
         "classroom": "431",
         "class": "7Д",
-        "time": "12_20",
+        "time": "12:20",
         "lesson": "Математика"
     },
     {
         "floor": "1",
         "classroom": "431",
         "class": "8Е",
-        "time": "13_20",
+        "time": "13:20",
         "lesson": "Физика"
     },
     {
         "floor": "1",
         "classroom": "431",
         "class": "9Ж",
-        "time": "14_20",
+        "time": "14:20",
         "lesson": "Геометрия"
     },
     {
         "floor": "1",
         "classroom": "431",
         "class": "10З",
-        "time": "15_10",
+        "time": "15:10",
         "lesson": "Вероятность и статистика"
     },
 
@@ -64,56 +64,56 @@
         "floor": "1",
         "classroom": "452",
         "class": "8D",
-        "time": "8_30",
+        "time": "8:30",
         "lesson": "Физика"
     },
     {
         "floor": "1",
         "classroom": "452",
         "class": "7A",
-        "time": "9_30",
+        "time": "9:30",
         "lesson": "Физика"
     },
     {
         "floor": "1",
         "classroom": "452",
         "class": "4T",
-        "time": "10_30",
+        "time": "10:30",
         "lesson": "Русский язык"
     },
     {
         "floor": "1",
         "classroom": "452",
         "class": "6K",
-        "time": "11_30",
+        "time": "11:30",
         "lesson": "Обществознание"
     },
     {
         "floor": "1",
         "classroom": "452",
         "class": "5M",
-        "time": "12_20",
+        "time": "12:20",
         "lesson": "География"
     },
     {
         "floor": "1",
         "classroom": "452",
         "class": "11N",
-        "time": "13_20",
+        "time": "13:20",
         "lesson": "Математика"
     },
     {
         "floor": "1",
         "classroom": "452",
         "class": "2G",
-        "time": "14_20",
+        "time": "14:20",
         "lesson": "Литература"
     },
     {
         "floor": "1",
         "classroom": "452",
         "class": "4E",
-        "time": "15_10",
+        "time": "15:10",
         "lesson": "Химия"
     },
 
@@ -128,56 +128,56 @@
         "floor": "1",
         "classroom": "444",
         "class": "3A",
-        "time": "8_30",
+        "time": "8:30",
         "lesson": "Геометрия"
     },
     {
         "floor": "1",
         "classroom": "444",
         "class": "4Б",
-        "time": "9_30",
+        "time": "9:30",
         "lesson": "Информатика"
     },
     {
         "floor": "1",
         "classroom": "444",
         "class": "5В",
-        "time": "10_30",
+        "time": "10:30",
         "lesson": "Информатика"
     },
     {
         "floor": "1",
         "classroom": "444",
         "class": "6Г",
-        "time": "11_30",
+        "time": "11:30",
         "lesson": "Биология"
     },
     {
         "floor": "1",
         "classroom": "444",
         "class": "7Д",
-        "time": "12_20",
+        "time": "12:20",
         "lesson": "Физическая культура"
     },
     {
         "floor": "1",
         "classroom": "444",
         "class": "8Е",
-        "time": "13_20",
+        "time": "13:20",
         "lesson": "Физика"
     },
     {
         "floor": "1",
         "classroom": "444",
         "class": "9Ж",
-        "time": "14_20",
+        "time": "14:20",
         "lesson": "Литература"
     },
     {
         "floor": "1",
         "classroom": "444",
         "class": "10З",
-        "time": "15_10",
+        "time": "15:10",
         "lesson": "Физика"
     },
 
@@ -193,56 +193,56 @@
         "floor": "1",
         "classroom": "456",
         "class": "3A",
-        "time": "8_30",
+        "time": "8:30",
         "lesson": "Русский язык"
     },
     {
         "floor": "1",
         "classroom": "456",
         "class": "4Б",
-        "time": "9_30",
+        "time": "9:30",
         "lesson": "История"
     },
     {
         "floor": "1",
         "classroom": "456",
         "class": "5В",
-        "time": "10_30",
+        "time": "10:30",
         "lesson": "Информатика"
     },
     {
         "floor": "1",
         "classroom": "456",
         "class": "6Г",
-        "time": "11_30",
+        "time": "11:30",
         "lesson": "Информатика"
     },
     {
         "floor": "1",
         "classroom": "456",
         "class": "7Д",
-        "time": "12_20",
+        "time": "12:20",
         "lesson": "Литература"
     },
     {
         "floor": "1",
         "classroom": "456",
         "class": "8Е",
-        "time": "13_20",
+        "time": "13:20",
         "lesson": "ОБЖ"
     },
     {
         "floor": "1",
         "classroom": "456",
         "class": "9Ж",
-        "time": "14_20",
+        "time": "14:20",
         "lesson": "Алгебра"
     },
     {
         "floor": "1",
         "classroom": "456",
         "class": "10З",
-        "time": "15_10",
+        "time": "15:10",
         "lesson": "Математика"
     },
 
@@ -258,56 +258,56 @@
         "floor": "1",
         "classroom": "421",
         "class": "3A",
-        "time": "8_30",
+        "time": "8:30",
         "lesson": "Алгебра"
     },
     {
         "floor": "1",
         "classroom": "421",
         "class": "4Б",
-        "time": "9_30",
+        "time": "9:30",
         "lesson": "Геометрия"
     },
     {
         "floor": "1",
         "classroom": "421",
         "class": "5В",
-        "time": "10_30",
+        "time": "10:30",
         "lesson": "Обществознание"
     },
     {
         "floor": "1",
         "classroom": "421",
         "class": "6Г",
-        "time": "11_30",
+        "time": "11:30",
         "lesson": "Иностранный язык"
     },
     {
         "floor": "1",
         "classroom": "421",
         "class": "7Д",
-        "time": "12_20",
+        "time": "12:20",
         "lesson": "Инженерный практикум"
     },
     {
         "floor": "1",
         "classroom": "421",
         "class": "8Е",
-        "time": "13_20",
+        "time": "13:20",
         "lesson": "Физическая культура"
     },
     {
         "floor": "1",
         "classroom": "421",
         "class": "9Ж",
-        "time": "14_20",
+        "time": "14:20",
         "lesson": "Геометрия"
     },
     {
         "floor": "1",
         "classroom": "421",
         "class": "10З",
-        "time": "15_10",
+        "time": "15:10",
         "lesson": "Вероятность и статистика"
     },
 
@@ -323,56 +323,56 @@
         "floor": "1",
         "classroom": "487",
         "class": "3A",
-        "time": "8_30",
+        "time": "8:30",
         "lesson": "Биология"
     },
     {
         "floor": "1",
         "classroom": "487",
         "class": "4Б",
-        "time": "9_30",
+        "time": "9:30",
         "lesson": "Физика"
     },
     {
         "floor": "1",
         "classroom": "487",
         "class": "5В",
-        "time": "10_30",
+        "time": "10:30",
         "lesson": "Физическая культура"
     },
     {
         "floor": "1",
         "classroom": "487",
         "class": "6Г",
-        "time": "11_30",
+        "time": "11:30",
         "lesson": "Английский язык"
     },
     {
         "floor": "1",
         "classroom": "487",
         "class": "7Д",
-        "time": "12_20",
+        "time": "12:20",
         "lesson": "Вероятность и статистика"
     },
     {
         "floor": "1",
         "classroom": "487",
         "class": "8Е",
-        "time": "13_20",
+        "time": "13:20",
         "lesson": "Алгебра"
     },
     {
         "floor": "1",
         "classroom": "487",
         "class": "9Ж",
-        "time": "14_20",
+        "time": "14:20",
         "lesson": "Математика"
     },
     {
         "floor": "1",
         "classroom": "487",
         "class": "10З",
-        "time": "15_10",
+        "time": "15:10",
         "lesson": "Физика"
     },
 
@@ -388,56 +388,56 @@
         "floor": "1",
         "classroom": "499",
         "class": "3A",
-        "time": "8_30",
+        "time": "8:30",
         "lesson": "Математика"
     },
     {
         "floor": "1",
         "classroom": "499",
         "class": "4Б",
-        "time": "9_30",
+        "time": "9:30",
         "lesson": "Вероятность и статистика"
     },
     {
         "floor": "1",
         "classroom": "499",
         "class": "5В",
-        "time": "10_30",
+        "time": "10:30",
         "lesson": "Алгебра"
     },
     {
         "floor": "1",
         "classroom": "499",
         "class": "6Г",
-        "time": "11_30",
+        "time": "11:30",
         "lesson": "Физическая культура"
     },
     {
         "floor": "1",
         "classroom": "499",
         "class": "7Д",
-        "time": "12_20",
+        "time": "12:20",
         "lesson": "Английский язык"
     },
     {
         "floor": "1",
         "classroom": "499",
         "class": "8Е",
-        "time": "13_20",
+        "time": "13:20",
         "lesson": "Биология"
     },
     {
         "floor": "1",
         "classroom": "499",
         "class": "9Ж",
-        "time": "14_20",
+        "time": "14:20",
         "lesson": "Математика"
     },
     {
         "floor": "1",
         "classroom": "499",
         "class": "10З",
-        "time": "15_10",
+        "time": "15:10",
         "lesson": "Физика"
     },
 
@@ -453,56 +453,56 @@
         "floor": "1",
         "classroom": "455",
         "class": "3A",
-        "time": "8_30",
+        "time": "8:30",
         "lesson": "Вероятность и статистика"
     },
     {
         "floor": "1",
         "classroom": "455",
         "class": "4Б",
-        "time": "9_30",
+        "time": "9:30",
         "lesson": "Английский язык"
     },
     {
         "floor": "1",
         "classroom": "455",
         "class": "5В",
-        "time": "10_30",
+        "time": "10:30",
         "lesson": "Биология"
     },
     {
         "floor": "1",
         "classroom": "455",
         "class": "6Г",
-        "time": "11_30",
+        "time": "11:30",
         "lesson": "Математика"
     },
     {
         "floor": "1",
         "classroom": "455",
         "class": "7Д",
-        "time": "12_20",
+        "time": "12:20",
         "lesson": "Физика"
     },
     {
         "floor": "1",
         "classroom": "455",
         "class": "8Е",
-        "time": "13_20",
+        "time": "13:20",
         "lesson": "Физика"
     },
     {
         "floor": "1",
         "classroom": "455",
         "class": "9Ж",
-        "time": "14_20",
+        "time": "14:20",
         "lesson": "Математика"
     },
     {
         "floor": "1",
         "classroom": "455",
         "class": "10З",
-        "time": "15_10",
+        "time": "15:10",
         "lesson": "Биология"
     }
 
